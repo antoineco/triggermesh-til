@@ -4,7 +4,7 @@ go 1.17
 
 require (
 	github.com/google/go-cmp v0.5.8
-	github.com/hashicorp/hcl/v2 v2.11.1
+	github.com/hashicorp/hcl/v2 v2.12.0
 	github.com/zclconf/go-cty v1.10.0
 	k8s.io/apimachinery v0.23.6
 	sigs.k8s.io/yaml v1.3.0
