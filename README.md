@@ -1,3 +1,5 @@
+_Hard fork of the `triggermesh/til` repository prior to its removal from GitHub_
+
 # TriggerMesh Integration Language
 
 Specification and interpreter for TriggerMesh's Integration Language.
@@ -58,7 +60,7 @@ Although this project is not part of the [CNCF][cncf], we abide by its [code of 
 [cncf-conduct]: https://github.com/cncf/foundation/blob/master/code-of-conduct.md
 
 [tm-brg]: https://www.triggermesh.com/integrations
-[wiki]: https://github.com/triggermesh/til/wiki
+[wiki]: https://github.com/antoineco/triggermesh-til/wiki
 
 [go]: https://golang.org/
 [go-dl]: https://golang.org/dl/

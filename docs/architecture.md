@@ -121,16 +121,16 @@ is being walked.
 [arch-graph]: .assets/arch-request-flow.svg
 [topo-sort-graph]: .assets/topological-sort.svg
 [til-spec]: language-spec.md
-[pkgcore-graphb]: https://github.com/triggermesh/til/blob/bf0d78bd/core/graph.go#L10-L15
-[pkgcore-grapht]: https://github.com/triggermesh/til/blob/bf0d78bd/core/graph.go#L52-L55
-[pkgcore-brgtrsl]: https://github.com/triggermesh/til/blob/bf0d78bd/core/translate.go#L13-L18
-[pkgcore-eval]: https://github.com/triggermesh/til/blob/bf0d78bd/core/eval_context.go#L12-L27
-[pkgcore]: https://github.com/triggermesh/til/blob/bf0d78bd/core/doc.go
-[pkgcore-chvrtx]: https://github.com/triggermesh/til/blob/bf0d78bd/core/vertex_channel.go#L16-L26
-[pkgcore-addrvrtx]: https://github.com/triggermesh/til/blob/bf0d78bd/core/transform_connect_refs.go#L11-L25
-[pkgconfig]: https://github.com/triggermesh/til/blob/bf0d78bd/config/doc.go
+[pkgcore-graphb]: https://github.com/antoineco/triggermesh-til/blob/bf0d78bd/core/graph.go#L10-L15
+[pkgcore-grapht]: https://github.com/antoineco/triggermesh-til/blob/bf0d78bd/core/graph.go#L52-L55
+[pkgcore-brgtrsl]: https://github.com/antoineco/triggermesh-til/blob/bf0d78bd/core/translate.go#L13-L18
+[pkgcore-eval]: https://github.com/antoineco/triggermesh-til/blob/bf0d78bd/core/eval_context.go#L12-L27
+[pkgcore]: https://github.com/antoineco/triggermesh-til/blob/bf0d78bd/core/doc.go
+[pkgcore-chvrtx]: https://github.com/antoineco/triggermesh-til/blob/bf0d78bd/core/vertex_channel.go#L16-L26
+[pkgcore-addrvrtx]: https://github.com/antoineco/triggermesh-til/blob/bf0d78bd/core/transform_connect_refs.go#L11-L25
+[pkgconfig]: https://github.com/antoineco/triggermesh-til/blob/bf0d78bd/config/doc.go
 [pkgcomps]: ../internal/components
-[pkgtransl]: https://github.com/triggermesh/til/blob/bf0d78bd/translation/doc.go
+[pkgtransl]: https://github.com/antoineco/triggermesh-til/blob/bf0d78bd/translation/doc.go
 
 <!-- HashiCorp links -->
 [tf-arch]: https://github.com/hashicorp/terraform/blob/main/docs/architecture.md
